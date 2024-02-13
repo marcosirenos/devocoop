@@ -63,6 +63,10 @@ body{
     font-size: 40px;
 }
 
+.icone_usuario a{
+    color: white;
+}
+
 .menu_icone{
     display: none;
 }
